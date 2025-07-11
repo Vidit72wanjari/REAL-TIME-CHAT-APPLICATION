@@ -1,4 +1,4 @@
-![a04fbc25-8361-4883-85c2-ad5c2b4c4a97](https://github.com/user-attachments/assets/6a93ba45-a717-4fff-9c23-f6531390c251)REAL-TIME CHAT APPLICATION
+
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -25,12 +25,15 @@ The project environment is tailored for modern development workflows. With suppo
 In conclusion, the Real-Time Chat Application is a strong example of a modern, interactive web app built with performance and scalability in mind. It highlights practical implementation of WebSockets, modular frontend development, and UI excellence using Tailwind CSS. Whether used as a learning project, demo for job portfolios, or a starting point for larger communication systems, it showcases both frontend and backend integration capabilities. This project reflects my understanding of real-time technologies and my ability to create user-centric digital experiences using cutting-edge tools and best practices in web development.
 
 #Output
-![a04fbc25-8361-4883-85c2-ad5c2b4c4a97](https://github.com/user-attachments/assets/1a59596a-7b84-4ddc-b9d7-fdeee04c1186)
-![028d7019-6de8-4b77-8b0d-4a944e0204b5](https://github.com/user-attachments/assets/66b2a176-30ab-47df-97e5-2da2073ca5b3)![d212f900-7755-425f-bc96-26250a7a71bd](https://github.com/user-attachments/assets/c2e77a96-0f4b-4e63-8f6e-02fcc69eb457)
 
 
+![a04fbc25-8361-4883-85c2-ad5c2b4c4a97](https://github.com/user-attachments/assets/d72a95a2-c23e-4de2-969d-4e3ecc38974a)
 
 
+![028d7019-6de8-4b77-8b0d-4a944e0204b5](https://github.com/user-attachments/assets/f7c9248c-11f3-4149-aa37-615d390d2e24)
+
+
+![d212f900-7755-425f-bc96-26250a7a71bd](https://github.com/user-attachments/assets/f19085d7-381b-4d2f-a6e7-24784a757c97)
 
 
 
